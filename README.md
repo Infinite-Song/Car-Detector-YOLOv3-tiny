@@ -5,4 +5,7 @@ To run this project in PC. Need:
   #### *Python 3.6  
   #### *Opencv 3.4.2 
 # Usage   
+To run this project...
+
+# Here is an example:  
 ![Image text](https://github.com/BigLazyPig/Car-Detector-YOLOv3-tiny/blob/master/image/1.jpg)
