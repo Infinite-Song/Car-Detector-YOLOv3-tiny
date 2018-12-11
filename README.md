@@ -9,9 +9,11 @@ To run this project in PC. Need:
       python windows.py
 Then choose a video to test. 
 ## However you can also use command as follws,  
-for videos:  
-      python car_detection_yolo.py --video=run.mp4  
+for videos:
+      
+      python car_detection_yolo.py  --video=run.mp4
 for single image:  
+
       python car_detection_yolo.py --image=myimage.jpg 
 This way is much better than the first one.
 # Here is an example:  
