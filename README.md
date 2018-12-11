@@ -11,7 +11,7 @@ Then choose a video to test.
 ## However you can also use command as follws,  
 for videos:
       
-      python car_detection_yolo.py  --video=run.mp4
+      python car_detection_yolo.py  --video=myvideo.mp4
 for single image:  
 
       python car_detection_yolo.py --image=myimage.jpg 
