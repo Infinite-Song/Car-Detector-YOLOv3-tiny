@@ -5,10 +5,11 @@ To run this project in PC. Need:
   #### *Python 3.6  
   #### *Opencv 3.4.2 
 # Usage   
-## To run this project，just use the command as follows,
+To run this project，just use the command as follows,
+
       python windows.py
 Then choose a video to test. 
-## However you can also use command as follws,  
+However you can also use command as follws,  
 for videos:
       
       python car_detection_yolo.py  --video=myvideo.mp4
